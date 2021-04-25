@@ -5,28 +5,28 @@ Created on Sun Apr 25 16:07:30 2021
 @author: González
 """
 
-# Adición
+#%% Adición
 8 + 30.5
 7 + 7
 
-# Substracción
+#%% Substracción
 10 - 5
 
-# Multiplicación
+#%% Multiplicación
 3.1 * 3.2
 'A' * 6 
 'A' + 'B'
 
-# División 
+#%% División 
 10 / 5
-# División entera tuncada
+#%% División entera tuncada
 10 // 5
-# División residuo
+#%% División residuo
 5 % 2
-# Exponenciación 
+#%% Exponenciación 
 4 ** 5
 
-# Operadores de asignación
+#%% Operadores de asignación
 edad = 10 
 print(edad)
 

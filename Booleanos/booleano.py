@@ -9,8 +9,13 @@ Created on Sun Apr 25 14:03:11 2021
  
 suma = 1 + 1
 
+suma2 = 1 + 2
+
 suma == 2
 
 suma == 3
 
-booleano = True
+(suma == 2 ) and (suma2 == 3)
+(suma == 2 ) and (suma2 == 3)
+
+
